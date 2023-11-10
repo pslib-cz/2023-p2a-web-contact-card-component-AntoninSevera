@@ -26,14 +26,15 @@ body {
 .image--center {
     margin: auto;
 }
-.image--InCard {
+/* .image--InCard {
     margin-bottom: -3em;
-}
+} */
 .image--border {
     border: 2px solid var(--bg-white);
     box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.173);
 }
 .card {
+    margin-top: -5em;
     display: block;
     margin: auto;
     width: 300px;
